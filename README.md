@@ -41,7 +41,7 @@ File provided as .csv
 
 Here the relationship between table creates form csv files.
 
-![ERD 4 table](ERD1.png)
+![ERD 4 table](ERD1.jpg)
 
 **Data Overview**
 
