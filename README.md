@@ -45,11 +45,11 @@ Here the relationship between table creates form csv files.
 
 ## pleas see more process detail in:  
 
-![document](FOOD-RETAIL-ANALYSIS.docx)  
+[document](FOOD-RETAIL-ANALYSIS.docx)  
 
 and  
 
-![jupyter notebook](EDA.ipynb)
+[jupyter notebook](EDA.ipynb)
 
 
 
