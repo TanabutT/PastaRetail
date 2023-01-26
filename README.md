@@ -47,7 +47,7 @@ Here the relationship between table creates form csv files.
 
 **Data Overview**
 
-![Text Description automatically generated](media/image3.png)
+![ERD 4 table](ERD.png)
 
 Check for missing value using msno.matrix(pandas.dataframe)
 
