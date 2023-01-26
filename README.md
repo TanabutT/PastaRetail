@@ -43,94 +43,15 @@ Here the relationship between table creates form csv files.
 
 ![ERD 4 table](ERD1.jpg)
 
-**Data Overview**
+## pleas see more process detail in:  
+
+![document](FOOD-RETAIL-ANALYSIS.docx)  
+
+and  
+
+![jupyter notebook](EDA.ipynb)
 
 
-
-Check for missing value using msno.matrix(pandas.dataframe)
-
-![A picture containing histogram Description automatically
-generated](media/image4.png) ![Shape, rectangle Description
-automatically generated](media/image5.png)
-
-![A picture containing background pattern Description automatically
-generated](media/image6.png) ![Graphical user interface Description
-automatically generated with medium confidence](media/image7.png)
-
-**Data Cleaning and manipulation**
-
-  - product dataframe
-
-Checked no duplicated.
-
-![Text Description automatically generated](media/image8.png)
-
-![Graphical user interface, text Description automatically
-generated](media/image9.png)
-
-product size is not right deal with it.
-
-![Text Description automatically generated](media/image10.png)
-
-Brand lists : 131 brands - product have 4 categories
-
-![Text Description automatically generated](media/image11.png)
-
-  - store dataframe
-
-![Graphical user interface, text, application Description automatically
-generated](media/image12.png)
-
-\- unique zip code is 299 locations some store is in same zip code total
-387 stores.
-
-\- zip code tell the location : try cross check with us state zip code
-
-\- I assume this is USA zip code (can compare with the list from us zip
-code:
-<https://github.com/zauberware/postal-codes-json-xml-csv/blob/master/data/US.zip>)
-
-  - causal dataframe
-
-upc number have 10 and 9 digit all the table reference seems not to be
-any issue here.
-
-![](media/image13.png)
-
-Display description.
-
-![Text Description automatically generated](media/image14.png)
-
-Require more detail on feature description.
-
-![Text Description automatically generated](media/image15.png)
-
-  - transaction dataframe
-
-\- notice that time digit is not always 4 digits
-
-![Text Description automatically generated](media/image16.png)
-
-Day and week are anonymous use day number and week number and time to
-create final datetime column. Assume it to be in year 2020 to 2021
-
-![](media/image17.png)
-
-clearly see 2 group of geography store (north and south region)
-
-![Graphical user interface, text Description automatically
-generated](media/image18.png)
-
-After cleaning and transform save to new csv to load in Tableau
-
-![Text Description automatically generated with medium
-confidence](media/image19.png)
-
-EDA
-
-Coupon usage overall
-
-![Text Description automatically generated](media/image20.png)
 
 Data summary from each feature or variable or dimension (column)
 
