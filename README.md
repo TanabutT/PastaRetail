@@ -160,3 +160,14 @@ Sales and Unit forecast with timeseries. Such as:
   - use fbprophet model
 
   - ARIMA
+
+
+
+
+<br>
+Tableau public to play with dashboard:
+
+https://public.tableau.com/views/PastaRetail-PromoPlace/PromoPlace?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/tanabut.taksinavongskul/viz/PastaUnitsEstimationdifferentperiodoftime/InventoryForcast
+https://public.tableau.com/app/profile/tanabut.taksinavongskul/viz/PastaProductSizematter/Product
+
