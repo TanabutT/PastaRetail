@@ -82,7 +82,10 @@ Sales and Unit forecast with timeseries. Such as:
 
   - ARIMA
 
-
+## Dashboard preview:  
+![1st dashboard](Promo&Place.png)
+![2nd dashboard](Inventory Forcast.png)
+![3rd dashboard](Product.png)
 
 
 <br>
