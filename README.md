@@ -41,13 +41,11 @@ File provided as .csv
 
 Here the relationship between table creates form csv files.
 
-![Diagram Description automatically generated](media/image1.png)
-
-![](media/image2.emf)
+![ERD 4 table](ERD.png)
 
 **Data Overview**
 
-![ERD 4 table](ERD.png)
+
 
 Check for missing value using msno.matrix(pandas.dataframe)
 
